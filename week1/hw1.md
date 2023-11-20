@@ -33,7 +33,7 @@ Real-World Applications: Modular blockchains are especially useful in complex bl
 
 ---
 
-**3 Examples of Modular Blockchains:**
+**THREE Examples of Modular Blockchains:**
 
 _Celestia_
 
