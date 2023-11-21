@@ -37,9 +37,9 @@ Real-World Applications: Modular blockchains are especially useful in complex bl
 
 _Celestia_
 
-- Functionality: Celestia is a notable example of a modular blockchain, often credited with pioneering the concept. It separates the consensus and data availability layers from execution layers.
+- Functionality: Celestia is an example of a modular blockchain, often credited with pioneering the concept. It separates the consensus and data availability layers from execution layers.
 
-- Design Focus: By focusing on consensus and data availability, Celestia allows other blockchains to handle execution, enabling them to scale more efficiently. This approach offers greater flexibility and scalability compared to traditional blockchains.
+- Design Focus: By focusing on consensus and data availability, Celestia allows other blockchains to handle execution, enabling them to scale more efficiently. This approach offers greater flexibility and scalability compared to traditional blockchains. Their statated goal is to create an envirinment of cooperation and not competition.
 
 _Polkadot_
 
