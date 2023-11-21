@@ -8,6 +8,8 @@ Multiple clients reduce the risk of network-wide issues caused by a bug in a sin
 
 Client diversity aligns with decentralization and it avoids central points of failure and control. A diverse client ecosystem makes the network more resilient to attacks and failures and it is harder to compromise a network when there are a diversity of clients.
 
+---
+
 **How would you describe the following concepts and how do you rank
 them in terms of their importance to you**
 
