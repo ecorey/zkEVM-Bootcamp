@@ -51,7 +51,7 @@ _Cosmos_
 
 - Functionality: Cosmos employs a modular framework with its Tendermint consensus engine and the Inter-Blockchain Communication (IBC) protocol.
 
-- Design Focus: The Cosmos ecosystem consists of various independent blockchains (zones) that can communicate and transfer value through the Cosmos Hub. This modular approac
+- Design Focus: The Cosmos ecosystem consists of various independent blockchains (zones) that can communicate and transfer value through the Cosmos Hub.
 
 ---
 
