@@ -19,7 +19,8 @@ advise you to use a codespace on the bootcamp repo
 
 **Zustlings for zkEVM**
 We have some Rust exercises for you to work through
-These are in the bootcamp repo
+These are in the bootcamp [repo](https://github.com/ExtropyIO/zkEVMBootcamp):
+
 You can either clone this locally or set up a codespace
 WIndows users
 It may help to use WSL, or if you still have problems we suggest using a
