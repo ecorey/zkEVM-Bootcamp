@@ -13,11 +13,11 @@ For all users : if you have problems with installing any of the projects, I
 advise you to use a codespace on the bootcamp repo
 
 - Install the Rust toolchain
-  See Instructions
-  curl --proto '=https' --tlsv1.2 -sSf
-  https://sh.rustup.rs | sh
+
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 **Zustlings for zkEVM**
+
 We have some Rust exercises for you to work through
 These are in the bootcamp [repo](https://github.com/ExtropyIO/zkEVMBootcamp):
 
