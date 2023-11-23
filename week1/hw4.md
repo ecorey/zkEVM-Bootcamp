@@ -1,6 +1,6 @@
 # Homework 4
 
-**Some modular arithmetic**
+**_Some modular arithmetic_**
 
 **Working with the following set of Integers S = {0,1,2,3,4,5,6}
 What is:**
