@@ -24,13 +24,18 @@ What is:**
 - addition
 
   The addition inverse of a number is what you would add to the number to get zero as a result.
-  −3
+
+  answer: −3
+
   3 + (−3) = 0
 
 - multiplication
+
   The addition inverse of a number is what you would add to the number to get one as a result.
   For any nonzero number x, its multiplicative inverse is 1/x
-  3
+
+  answer: 3
+
   3 × (1/3) = 1
 
 ---
@@ -66,6 +71,8 @@ Closure property is not true. For example, 4 + 4 = 8 and 8 is not in the set S.
 **Polynomials**
 
 - For the polynomial x^3 − x^2 + 4x − 12 Find a positive root.
+
+  The positive root of a polynomial is a value for the variable, usually x that makes the polynomial equal to zero, and the value itself is also greater than zero.
 
 - What is the degree of this polynomial
 
