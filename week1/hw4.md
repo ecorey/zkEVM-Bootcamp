@@ -65,6 +65,8 @@ Closure property is not true. For example, 4 + 4 = 8 and 8 is not in the set S.
 
 **Polynomials**
 
-- For the polynomial x3 − x2 + 4x − 12 Find a positive root.
+- For the polynomial x^3 − x^2 + 4x − 12 Find a positive root.
 
 - What is the degree of this polynomial
+
+  The degree of a polynomial is the highest power of the variable in the polynomial which in this case is found in the x^3, so the answer is 3.
