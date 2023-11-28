@@ -59,3 +59,25 @@
 ---
 
 # Polynomials
+
+- Polynomial (many terms)
+- Terms have coefficient and variable raised to the power. These terms are connected by addition or subtraction 3x^2 + 2x - 3
+- A polynomial can have any number of terms from 1 up but not infinite.
+
+---
+
+- GF(2) = {0, 1} = prime field
+- GF(8) = GF(2^3) = mP^m>1 = Extension Field
+
+GF(2^3) {
+
+    - 0 0 0     ax^2 + ax + 1  -> 0
+    - 0 0 1
+    - 0 1 0
+    - 0 1 1
+    - 1 0 0
+    - 1 0 1
+    - 1 1 0
+    - 1 1 1
+
+}
