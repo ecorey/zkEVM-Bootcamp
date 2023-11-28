@@ -1,6 +1,6 @@
 # Group
 
-**A Group, (G, ) is a nonempty set G together with a binary operation \* on G such that the following conditions hold: **
+**A Group, (G, ) is a nonempty set G together with a binary operation \* on G such that the following conditions hold:**
 
 - Closure: For all a, b ∈ G the element a + b ∈ G
 - Inverse: Each has an additive inverse
