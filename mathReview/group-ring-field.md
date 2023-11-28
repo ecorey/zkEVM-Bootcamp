@@ -11,7 +11,7 @@
 
 # Ring
 
-**Let R be a set on which two binary operations are fdefined, called addition and multiplication, and denoted by + and \* **
+**Let R be a set on which two binary operations are fdefined, called addition and multiplication, and denoted by + and \***
 
 - _Addition_
 
