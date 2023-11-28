@@ -17,6 +17,32 @@
 
 ---
 
-**Check if a point falls on the curve**
+# Check if a point falls on the curve
 
 ![Elliptical Curve Addition](./curve.png)
+
+**Given a Set of Points**
+
+- (0, 1)
+- (0, 10)
+- (1, 5)
+- (1, 6)
+- (2, 0)
+- (3, 3)
+- (3, 8)
+- (4, 5)
+- (4, 6)
+- (6, 5)
+- (6, 6)
+- (8, 2)
+- (8, 9)
+
+**Check for point (3,8)**
+
+- y^2 mod 11 = x^3 + x + 1 mod 11
+- 8^2 mod 11 = 3^3 + 3 + 1 mod 11
+- 9 = 31 mod 11
+- 9 = 9
+- Point is in the elliptical curve
+
+# Addition of Two Points
