@@ -18,3 +18,5 @@
 ---
 
 **Check if a point falls on the curve**
+
+![Elliptical Curve Addition](./curve.png)
