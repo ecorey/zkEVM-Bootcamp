@@ -46,3 +46,13 @@
 - Point is in the elliptical curve
 
 # Addition of Two Points
+
+**Let the points P = (x1. y1) amd Q = (x2, y2) be in the elliptic group Ep(a, b) and Q != -P**
+**The rules for addition over the elliptic group Ep(a, b) is:**
+
+- x^3 = λ^2 - x1 - x2 mod p
+- y^3 = λ(x1 - x3) - y1 mod p
+
+---
+
+λ = { y2 - y1 / x2 - x1 mod p such that P != Q
