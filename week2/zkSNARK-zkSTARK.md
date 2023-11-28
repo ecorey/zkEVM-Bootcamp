@@ -16,7 +16,7 @@
 
 ---
 
-# ZK-STARKs
+# ZK-STARKs (Cairo)
 
 - Zero-Knowledge: Similar to ZK-SNARKs, it enables proving knowledge of a secret without revealing the secret itself.
 
