@@ -1,4 +1,4 @@
-# Optimistic Rollups:
+# Optimistic Rollups (Inoccent till Proven Guilty):
 
 - Mechanism: They assume transactions are valid by default and only run computation, in case of a dispute. This approach optimistically accepts transactions and executes them without immediate verification.
 
@@ -9,7 +9,7 @@
 
 ---
 
-# ZK Rollups:
+# ZK Rollups (Guilty till Proven Inoccent):
 
 - Mechanism: They use Zero-Knowledge Proofs (specifically, SNARKs or STARKs) to validate all transactions in a bundle and submit a single proof to the Ethereum main chain. This proof attests to the correctness of every transaction in the bundle.
 
