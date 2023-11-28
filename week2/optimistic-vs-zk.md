@@ -28,4 +28,4 @@
 
 - Based on math and cryptography through validity proof
 
-- Matter Labs (zk-SNARKs) vs Starkware (zk-STARKs)
+- Matter Labs (zk-SNARKs)(ZkSync) vs Starkware (zk-STARKs)(StarkNet)
