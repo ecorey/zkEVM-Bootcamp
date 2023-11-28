@@ -8,8 +8,11 @@
 
 - Argument of Knowledge: It is a computational proof that certain information is known by the prover.
 
--Working Mechanism: - Computation Encoding: First, the computation that needs to be proven is encoded into a polynomial equation. - Trusted Setup: Next, a trusted setup phase generates public parameters for creating and verifying proofs. - Proof Generation: The prover then generates a proof that they have inputs that satisfy the polynomial equation, without revealing the inputs themselves.
-Verification: The verifier uses the public parameters from the trusted setup to check the proof.
+- Working Mechanism:
+- Computation Encoding: First, the computation that needs to be proven is encoded into a polynomial equation.
+- Trusted Setup: Next, a trusted setup phase generates public parameters for creating and verifying proofs.
+- Proof Generation: The prover then generates a proof that they have inputs that satisfy the polynomial equation, without revealing the inputs themselves.
+- Verification: The verifier uses the public parameters from the trusted setup to check the proof.
 
 ---
 
