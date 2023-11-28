@@ -27,3 +27,5 @@
 - Less EVM comapatibility
 
 - Based on math and cryptography through validity proof
+
+- Matter Labs (zk-SNARKs) vs Starkware (zk-STARKs)
