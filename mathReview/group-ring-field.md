@@ -12,13 +12,16 @@
 # Ring
 
 **Let R be a set on which two binary operations are fdefined, called addition and multiplication, and denoted by + and \* **
-_Addition_
+
+- _Addition_
 
 - Closure: For all a, b ∈ G the element a + b ∈ G
 - Inverse: Each has an additive inverse
 - Associativity: For all a, b, c ∈ G, we have a + (b + c) = (a + b) + c
 - Identity: There exists an identity element e ∈ G such that, a + 0 = a, and, a + 0 = a, for all a ∈ G
-  _Multiplication_
+
+- _Multiplication_
+
 - Associative: a _ (b _ c) = (a _ b) _ c
 - No need for a ring to be communtatuve
 - No need for it to have multiplication inverses
