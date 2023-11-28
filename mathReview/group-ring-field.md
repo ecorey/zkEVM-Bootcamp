@@ -1,6 +1,6 @@
 # Group
 
-**A Group, (G, ) is a nonempty set G together with a binary operation \* on G such that the following conditions hold:**
+**A Group, (G, ) is a nonempty set G together with a single binary operation \* on G such that the following conditions hold:**
 
 - Closure: For all a, b ∈ G the element a + b ∈ G
 - Inverse: Each has an additive inverse
@@ -32,3 +32,20 @@
 ---
 
 # Field
+
+**A Field is a set on which addiction, subtraction, multiplication, and division are defined**
+
+- Addition
+- Additive Inverse
+- Multiplication
+- Multiplicative Inverse for every non zero element
+
+**Consider the set of rational numbers (a/b) where a and b are integers and b is not equal to 0**
+
+- They are commutative with addition
+- They are commutative with multiplication
+- All elements have a multiplicative inverse
+
+- a / b + c / d = c / d + a / b
+- a / b _ c / d = c / d _ a / b
+- 2 / 3 \* 3 / 2 = 1
