@@ -1,7 +1,8 @@
 # Homework 8
 
 **Polynomial practice**
--for p(x) = x3 − 5x2 − 4x + 20
+
+- for p(x) = x3 − 5x2 − 4x + 20
 
 - a) find an integer root a , i.e. p(a) = 0 (clue a < 7)
 
