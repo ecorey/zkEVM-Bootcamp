@@ -6,6 +6,9 @@
 
   - a) find an integer root a , i.e. p(a) = 0 (clue a < 7)
 
+    - p(x)=0
+    - −2, 2, 5
+
   - b) write this in terms of a lower degree polynomial q(x)
     such as p(x) = (x − a)q(x)
 
