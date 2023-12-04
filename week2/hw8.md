@@ -1,6 +1,6 @@
 # Homework 8
 
-**Polynomial practice**
+**[Polynomial](https://www.zkcamp.xyz/blog/you-cant-understand-zkps-without-understanding-polynomials) practice**
 
 - for p(x) = x^3 − 5x^2 − 4x + 20
 
